@@ -1,0 +1,52 @@
+body {
+    font-size: 14pt;
+}
+
+.yellow {
+    color: rgb(255, 174, 1);
+    outline: 5px black;
+}
+
+.center {
+    text-align: center;
+}
+
+.input-box {
+    border-radius: 50px;
+    border: 1px solid black;
+    padding: 20px 30px 20px 30px;
+    font-size: 12pt;
+    width: 50%;
+}
+
+.input-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    background:#999;
+    padding: 40px;
+}
+
+.output-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    overflow-y: scroll;
+    height: 500px;
+}
+
+#output {
+    width: 50%;
+    overflow-wrap: break-word;
+}
+
+.human-output {
+    display: flex;
+    justify-content: right;
+}
