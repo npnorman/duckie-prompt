@@ -11,7 +11,21 @@ global_lines = [
     "What makes this problem so difficult?",
     "This seems simply difficult, maybe a whiteboard would help?",
     "*squeak* *squeak*",
-    "AMAZING IDEA (or maybe not), but at least you have it formally written down now."
+    "AMAZING IDEA (or maybe not), but at least you have it formally written down now.",
+    "How does this relate to the overall goal?",
+    "Is this a requirment or a goal?",
+    "You have either answered your own question or... LOOK AT THE DOCS!",
+    "Research? Oh, I would just use google",
+    "Project design, project design, give me your answer do ♫",
+    "Get that on my desk by the end of the day! Just kidding :)",
+    "I am a brick wall.",
+    "I will break your project because I do not care if you have exception handlers or not.",
+    "And thats when I said..., Oh sorry, didn't see yout there XD",
+    "You should walk around outside for a min to process this information",
+    "Do something else and the answer may come to you",
+    "Sketch out the diagram, psuedocode, or plan (or think of the goals!)",
+    "Outlook not so good",
+    "Your horoscope says you need to spend more time defining what you want"
 ]
 
 current_lines = [];
